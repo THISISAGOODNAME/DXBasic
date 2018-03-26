@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direct3D11_RenderingPrimitives", "Direct3D11_RenderingPrimitives\Direct3D11_RenderingPrimitives.csproj", "{6C1287B4-E5F9-4CA5-95EB-A48117F9CB4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direct3D11_RenderingPrimitivesInput", "Direct3D11_RenderingPrimitivesInput\Direct3D11_RenderingPrimitivesInput.csproj", "{9045458F-8635-408D-99FB-7A61D1E27979}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direct3D11_RenderingTexture", "Direct3D11_RenderingTexture\Direct3D11_RenderingTexture.csproj", "{CDF6FFEE-4D85-46B6-94A0-F0AEC2B3A44D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{6C1287B4-E5F9-4CA5-95EB-A48117F9CB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C1287B4-E5F9-4CA5-95EB-A48117F9CB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C1287B4-E5F9-4CA5-95EB-A48117F9CB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9045458F-8635-408D-99FB-7A61D1E27979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9045458F-8635-408D-99FB-7A61D1E27979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9045458F-8635-408D-99FB-7A61D1E27979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9045458F-8635-408D-99FB-7A61D1E27979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDF6FFEE-4D85-46B6-94A0-F0AEC2B3A44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF6FFEE-4D85-46B6-94A0-F0AEC2B3A44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF6FFEE-4D85-46B6-94A0-F0AEC2B3A44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF6FFEE-4D85-46B6-94A0-F0AEC2B3A44D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
