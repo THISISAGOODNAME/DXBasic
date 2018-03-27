@@ -19,6 +19,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direct3D11_RenderingPrimiti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direct3D11_RenderingTexture", "Direct3D11_RenderingTexture\Direct3D11_RenderingTexture.csproj", "{CDF6FFEE-4D85-46B6-94A0-F0AEC2B3A44D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direct3D11_RenderingCubeAndSphere", "Direct3D11_RenderingCubeAndSphere\Direct3D11_RenderingCubeAndSphere.csproj", "{8F3B07FD-D896-418C-B416-EE464B647C94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direct3D11_RenderingMaterialAndLight", "Direct3D11_RenderingMaterialAndLight\Direct3D11_RenderingMaterialAndLight.csproj", "{C1B5C8B0-6DEA-4DA5-83DC-DD811432AE1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direct3D11_RenderingCubeTexture", "Direct3D11_RenderingCubeTexture\Direct3D11_RenderingCubeTexture.csproj", "{53C802F1-F41D-4D6D-BB05-7333DA691591}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direct3D11_LoadMesh", "Direct3D11_LoadMesh\Direct3D11_LoadMesh.csproj", "{B136C848-C653-4778-89F4-B5C900B2D0B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +65,22 @@ Global
 		{CDF6FFEE-4D85-46B6-94A0-F0AEC2B3A44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDF6FFEE-4D85-46B6-94A0-F0AEC2B3A44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDF6FFEE-4D85-46B6-94A0-F0AEC2B3A44D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F3B07FD-D896-418C-B416-EE464B647C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3B07FD-D896-418C-B416-EE464B647C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3B07FD-D896-418C-B416-EE464B647C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3B07FD-D896-418C-B416-EE464B647C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B5C8B0-6DEA-4DA5-83DC-DD811432AE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B5C8B0-6DEA-4DA5-83DC-DD811432AE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B5C8B0-6DEA-4DA5-83DC-DD811432AE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B5C8B0-6DEA-4DA5-83DC-DD811432AE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53C802F1-F41D-4D6D-BB05-7333DA691591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C802F1-F41D-4D6D-BB05-7333DA691591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C802F1-F41D-4D6D-BB05-7333DA691591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C802F1-F41D-4D6D-BB05-7333DA691591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B136C848-C653-4778-89F4-B5C900B2D0B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B136C848-C653-4778-89F4-B5C900B2D0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B136C848-C653-4778-89F4-B5C900B2D0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B136C848-C653-4778-89F4-B5C900B2D0B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
