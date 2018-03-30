@@ -27,6 +27,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direct3D11_RenderingCubeTex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direct3D11_LoadMesh", "Direct3D11_LoadMesh\Direct3D11_LoadMesh.csproj", "{B136C848-C653-4778-89F4-B5C900B2D0B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direct3D11_VertexSkinning", "Direct3D11_VertexSkinning\Direct3D11_VertexSkinning.csproj", "{DAD01BF8-1546-4A92-B277-8DF32D33E563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direct3D11_VertexSkinningAnimate", "Direct3D11_VertexSkinningAnimate\Direct3D11_VertexSkinningAnimate.csproj", "{44C5DBFD-3BE3-4368-A0E6-5C930469594B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direct3D11_BulletSharp", "Direct3D11_BulletSharp\Direct3D11_BulletSharp.csproj", "{DFAB80FB-7ACF-428E-B39E-A8F30318479E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +87,18 @@ Global
 		{B136C848-C653-4778-89F4-B5C900B2D0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B136C848-C653-4778-89F4-B5C900B2D0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B136C848-C653-4778-89F4-B5C900B2D0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD01BF8-1546-4A92-B277-8DF32D33E563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD01BF8-1546-4A92-B277-8DF32D33E563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD01BF8-1546-4A92-B277-8DF32D33E563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD01BF8-1546-4A92-B277-8DF32D33E563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44C5DBFD-3BE3-4368-A0E6-5C930469594B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C5DBFD-3BE3-4368-A0E6-5C930469594B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C5DBFD-3BE3-4368-A0E6-5C930469594B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C5DBFD-3BE3-4368-A0E6-5C930469594B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFAB80FB-7ACF-428E-B39E-A8F30318479E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAB80FB-7ACF-428E-B39E-A8F30318479E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAB80FB-7ACF-428E-B39E-A8F30318479E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFAB80FB-7ACF-428E-B39E-A8F30318479E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
